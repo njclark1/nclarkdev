@@ -1,3 +1,61 @@
 .testClass2 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
+
+.myNavbar {
+  display: inline;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 100px;
+  right: 100px;
+  width: 600px;
+  list-style: none;
+}
+
+.navButton {
+  float: right;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 5px;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.navButton:hover {
+  color: black;
+}
+
+.socialsBar {
+  display: inline;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  top: 20px;
+  right: 100px;
+  width: 500px;
+  list-style: none;
+}
+
+.socialsButton {
+  float: right;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+}
+
+.socialsButton:hover {
+  opacity: 0.5;
+  transition: opacity 0.5s ease-in-out;
+}
