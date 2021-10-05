@@ -6,12 +6,12 @@ function Navbar() {
     <nav>
       <ul className="myNavbar">
         <li>
-          <a className="navButton" href="index.html">
+          <a className="navButton" href="#about">
             About Me
           </a>
         </li>
         <li>
-          <a className="navButton" href="index.html">
+          <a className="navButton" href="#projects">
             Projects
           </a>
         </li>

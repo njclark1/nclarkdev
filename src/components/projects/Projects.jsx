@@ -3,7 +3,7 @@ import "./Projects.css";
 
 function Projects() {
   return (
-    <div className="projectsContainer">
+    <div className="projectsContainer" id="projects">
       <img
         className="projectsPicture"
         src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80"

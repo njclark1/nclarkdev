@@ -3,7 +3,7 @@ import "./About.css";
 
 function About() {
   return (
-    <div className="aboutContainer">
+    <div className="aboutContainer" id="about">
       <p className="aboutText">
         About <br />
         <br /> I like gym. Lift big at gym. GRR. <br />
