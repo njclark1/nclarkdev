@@ -13,8 +13,6 @@ function Body() {
         Hi, I'm Nicholas Clark <br />
         <br />I am a computer science student working hard to begin a
         professional career. <br />
-        <br />
-        content content content
       </p>
     </div>
   );
